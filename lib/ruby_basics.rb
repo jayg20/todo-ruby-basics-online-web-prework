@@ -16,11 +16,11 @@ def greeting(greeting="Hi there," name="Bobby!")
 end
 
 def return_a_value()
-  return "NIce!"
+  return "Nice!"
 end
 
-def last_evaluated_value
-
+def last_evaluated_value()
+  return 
 end
 
 def pizza_party
